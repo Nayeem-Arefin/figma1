@@ -1,0 +1,7 @@
+headings
+font: poppins , roboto 
+weight: headings 700, text 400 
+color: #56548C;#6C6B6B #FFF #282531 
+common layout similar
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
